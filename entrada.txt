@@ -1,0 +1,16 @@
+
+fn main() {
+
+    
+    
+    let bo1: bool = false;
+    let bol21: bool = !bo1;
+    let cad1: String = "imprimir".to_string();
+    let cad21: String = "cadena valida";
+    let letra1: char = 'c';
+
+    println!(cad1);
+    
+
+
+}
